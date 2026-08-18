@@ -1,0 +1,41 @@
+# Ficha de proyecto — Colección de vinilos
+
+## 1. Nombre interno del proyecto
+
+"Asistente para clasificación y recomendación de vinilos"
+
+## 2. Problema (2-3 frases)
+
+Gestionar una colección de vinilos y encontrar nuevas adquisiciones compatibles con los intereses del usuario es una tarea que requiere revisar grandes volúmenes de información. Se necesita un asistente que clasifique automáticamente los discos y entregue recomendaciones personalizadas según la colección y las preferencias del coleccionista.
+
+## 3. Usuario / cliente objetivo
+
+Coleccionistas y melómanos que necesitan catalogar su música física automáticamente y recibir recomendaciones de compra personalizadas; un problema no resuelto hoy porque las plataformas actuales exigen registros manuales tediosos y los algoritmos de streaming no entienden la lógica ni el contexto del coleccionismo en vinilo.
+
+## 4. Tipo de modelo que vas a necesitar
+
+- [ ] Generativo (crea contenido nuevo: texto, imagen, audio, video)
+- [ ] Analítico (clasifica, predice, extrae)
+- [X] Ambos (pipeline combinado)
+
+## 5. Modelos candidatos (2-3 concretos)
+
+1.⁠ ⁠GPT-4o / GPT-4o-mini
+2.⁠ ⁠Claude 3.5 Sonnet:
+3.⁠ ⁠Gemini 1.5 Flash / Pro
+
+## 6. Roadmap del proyecto (se completa clase a clase)
+
+- [ ] Clase 23 — Datasheet del dataset (`docs/datasheet_v1.md`)
+- [ ] Clase 24 — Hallazgos NotebookLM (`docs/hallazgos_notebooklm.md`)
+- [ ] Clase 25 — System prompt (`docs/system_prompt_v3.md`)
+- [ ] Clase 26 — Modelos HF candidatos (`docs/modelos_hf_candidatos.md`)
+- [ ] Clase 27 — Sistema visual (`docs/sistema_visual.md`)
+- [ ] Clase 28 — Arquitectura del agente (`docs/arquitectura_agente.md`)
+- [ ] Clase 29 — Video generativo (`docs/video_generativo.md`)
+- [ ] Clase 30 — Casos de uso Hermes (`docs/hermes_casos_uso.md`)
+- [ ] Clase 31 — Antigravity Loop + cierre (`docs/antigravity_loop.md`)
+
+## 7. Notas para Mauricio (Unidad 4)
+
+Qué necesita saber quien reciba este proyecto en la próxima unidad:
